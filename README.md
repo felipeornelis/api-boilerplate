@@ -6,8 +6,6 @@ I have created this because I'm too lazy to always getting the same packages eve
 
 ## Installing
 
----
-
 Let's get the party started.
 
 ```sh
@@ -28,8 +26,6 @@ $ pnpm install
 Hooray! Instead of _api-boilerplate_, the repository folder will be just _api_ (much better).
 
 ## Running the application
-
----
 
 If you're really ready to go after installing all the dependencies, then go ahead with:
 
